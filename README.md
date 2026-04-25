@@ -124,3 +124,12 @@ Install VST3:
 ------------------------------------------------------------------------
 
 ## Created by PerceptionLab
+
+## 📚 Mathematical Foundation
+
+The core distortion algorithm (The EML Gate) is not a standard waveshaper or saturator. It is derived from the topological properties of the EML operator, a mathematical primitive capable of generating all elementary functions. 
+
+For a rigorous mathematical treatment of the operator that powers the phase-clipping and topological frustration in this plugin, see:
+
+* **[All elementary functions from a single binary operator]**(https://arxiv.org/abs/2603.21852) 
+  * *This paper defines the foundational mathematics behind the EML Zero Manifold ($|Z| \approx \arg(Z)$) used in the plugin's Bost-Connes delay routing.*
